@@ -1,0 +1,131 @@
+{
+      "widgets": [{
+        "filter": "1",
+        "text": "edit me",
+        "title": "edit or erase me",
+        "type": "visual",
+        "panels_info": {
+          "class": "SiteOrigin_Widget_Editor_Widget",
+          "raw": false,
+          "grid": 0,
+          "cell": 0,
+          "id": 0,
+          "style": {}
+        }
+      }],
+      
+          "grids": [{
+          "cells": 1,
+          "style": {}
+        }],
+        "grid_cells": [{
+          "grid": 0,
+          "index": 0,
+          "weight": 1,
+          "style": {}
+        }]
+        }{
+      "widgets": [{
+        "filter": "1",
+        "text": "edit me",
+        "title": "edit or erase me",
+        "type": "visual",
+        "panels_info": {
+          "class": "SiteOrigin_Widget_Editor_Widget",
+          "raw": false,
+          "grid": 0,
+          "cell": 0,
+          "id": 0,
+          "style": {}
+        }
+      }],
+      
+          "grids": [{
+          "cells": 1,
+          "style": {}
+        }],
+        "grid_cells": [{
+          "grid": 0,
+          "index": 0,
+          "weight": 1,
+          "style": {}
+        }]
+        }{
+      "widgets": [{
+        "filter": "1",
+        "text": "edit me",
+        "title": "edit or erase me",
+        "type": "visual",
+        "panels_info": {
+          "class": "SiteOrigin_Widget_Editor_Widget",
+          "raw": false,
+          "grid": 0,
+          "cell": 0,
+          "id": 0,
+          "style": {}
+        }
+      }],
+      
+          "grids": [{
+          "cells": 1,
+          "style": {}
+        }],
+        "grid_cells": [{
+          "grid": 0,
+          "index": 0,
+          "weight": 1,
+          "style": {}
+        }]
+        }{
+      "widgets": [{
+        "filter": "1",
+        "text": "edit me",
+        "title": "edit or erase me",
+        "type": "visual",
+        "panels_info": {
+          "class": "SiteOrigin_Widget_Editor_Widget",
+          "raw": false,
+          "grid": 0,
+          "cell": 0,
+          "id": 0,
+          "style": {}
+        }
+      }],
+      
+          "grids": [{
+          "cells": 1,
+          "style": {}
+        }],
+        "grid_cells": [{
+          "grid": 0,
+          "index": 0,
+          "weight": 1,
+          "style": {}
+        }]
+        }{
+      "widgets": [{
+        "filter": "1",
+        "text": "edit me",
+        "title": "edit or erase me",
+        "type": "visual",
+        "panels_info": {
+          "class": "SiteOrigin_Widget_Editor_Widget",
+          "raw": false,
+          "grid": 0,
+          "cell": 0,
+          "id": 0,
+          "style": {}
+        }
+      }],
+      
+          "grids": [{
+          "cells": 1,
+          "style": {}
+        }],
+        "grid_cells": [{
+          "grid": 0,
+          "index": 0,
+          "weight": 1,
+          "style": {}
+        }]
+        }
